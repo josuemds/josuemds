@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josuemds Front-End JS Developer
 - 👀 I’m interested in Front-End, React, Node, PHP
-- 🌱 I’m currently learning React, Angular, Kotlin
+- 🌱 I’m currently learning React, Angular, Kotlin, GIT
 - 💞️ I’m looking to collaborate on projects related to my skills
 - 📫 How to reach me josue.moran.ds@gmail.com
 
